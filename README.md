@@ -1,4 +1,4 @@
-# PROJECT — Cartesian Laser Engraver / Cutter
+# PROJECT — Laser (Engraving/Cutting)
 <img width="1632" height="919" alt="20260528_105916" src="https://github.com/user-attachments/assets/0b7e9a52-7f4e-4a2b-b6f0-bf4ec8cd20a3" />
 
 ## Overview
