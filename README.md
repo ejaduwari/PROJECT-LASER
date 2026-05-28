@@ -29,7 +29,6 @@ This machine repurposes a Cartesian motion system (X/Y/Z architecture) into a di
 
 ### Design & Control Interface
 - **LaserGRBL** — A lightweight G-code sender and laser control application used to convert images and vector designs into machine-executable motion paths. It supports engraving workflows, power modulation, and real-time job control.  
-  :contentReference[oaicite:1]{index=1}  
   https://lasergrbl.com
 
 ### Embedded Hardware
