@@ -24,7 +24,6 @@ This machine repurposes a Cartesian motion system (X/Y/Z architecture) into a di
 
 ### Motion Control Firmware
 - **FluidNC** — An open-source motion control firmware running on ESP32-based systems. It handles real-time G-code execution, stepper motor control, and hardware interfacing for CNC and laser systems.  
-  :contentReference[oaicite:0]{index=0}  
   https://github.com/bdring/FluidNC
 
 ### Design & Control Interface
