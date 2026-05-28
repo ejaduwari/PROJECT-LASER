@@ -1,5 +1,5 @@
 # PROJECT — Cartesian Laser Engraver / Cutter
-<img width="4000" height="2252" alt="20260528_104314" src="https://github.com/user-attachments/assets/e595b193-009e-4e07-8137-7ab41329e488" />
+<img width="1632" height="919" alt="20260528_105916" src="https://github.com/user-attachments/assets/0b7e9a52-7f4e-4a2b-b6f0-bf4ec8cd20a3" />
 
 ## Overview
 Custom-built laser engraver/cutter developed from the **PROJECT-Cartesian-Origins** platform. The system re-engineers a Cartesian motion base into a modular, high-precision fabrication machine capable of laser engraving and light-to-medium duty cutting.
